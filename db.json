@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "item": "eggs",
+      "quantity": 12,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "item": "veggies",
+      "quantity": 1
+    },
+    {
+      "id": "75bd",
+      "item": "curd",
+      "quantity": "1"
+    },
+    {
+      "id": "3d25",
+      "item": "spinach",
+      "quantity": "1"
+    }
+  ]
+}
